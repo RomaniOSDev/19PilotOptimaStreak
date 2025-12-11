@@ -8,7 +8,7 @@ workflows:
           XCODE_WORKSPACE: "19PilotOptimaStreak.xcworkspace"
           XCODE_SCHEME: "19PilotOptimaStreak"
           BUNDLE_ID: "com.pho.p1l0pystr3k"
-          APP_STORE_APP_ID: 6755233676
+          APP_STORE_APP_ID: 6756367614
         xcode: latest
         cocoapods: 1.14.2
       scripts:
